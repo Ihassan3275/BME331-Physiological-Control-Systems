@@ -1,0 +1,11 @@
+﻿-IC:\Users\ihass\Downloads
+-IC:\Users\ihass\Downloads\slprj\raccel\BME331Lab3_Update
+-I"C:\Program Files\MATLAB\R2023a\rtw\c\src\rapid"
+-I"C:\Program Files\MATLAB\R2023a\rtw\c\raccel"
+-I"C:\Program Files\MATLAB\R2023a\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2023a\toolbox\coder\rtiostream\src"
+-I"C:\Program Files\MATLAB\R2023a\extern\include"
+-I"C:\Program Files\MATLAB\R2023a\simulink\include"
+-I"C:\Program Files\MATLAB\R2023a\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2023a\toolbox\coder\rtiostream\src\rtiostreamtcpip"
+-I"C:\Program Files\MATLAB\R2023a\toolbox\coder\rtiostream\src\utils"
